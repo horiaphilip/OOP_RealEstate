@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1713732387 source:c:\users\horia\onedrive\desktop\imobiliare_poo\agent_imobiliar.cpp
+	"agent_vanzari.h"
+	<iostream>
+
+1713897672 c:\users\horia\onedrive\desktop\imobiliare_poo\agent_vanzari.h
+	<string>
+	<vector>
+	"casa.h"
+	"teren.h"
+	"apartament.h"
+	"client.h"
+	<memory>
+
+1713897672 c:\users\horia\onedrive\desktop\imobiliare_poo\casa.h
+	"imobil.h"
+
+1714048724 c:\users\horia\onedrive\desktop\imobiliare_poo\imobil.h
+	<string>
+
+1713897672 c:\users\horia\onedrive\desktop\imobiliare_poo\teren.h
+	"imobil.h"
+
+1713897672 c:\users\horia\onedrive\desktop\imobiliare_poo\apartament.h
+	"imobil.h"
+
+1713726113 source:c:\users\horia\onedrive\desktop\imobiliare_poo\agent_inchirieri.cpp
+
+1714048737 source:c:\users\horia\onedrive\desktop\imobiliare_poo\imobil.cpp
+	"imobil.h"
+
+1714049750 source:c:\users\horia\onedrive\desktop\imobiliare_poo\main.cpp
+	<iostream>
+	<vector>
+	"agent_vanzari.h"
+	"client.h"
+	<memory>
+
+1713994310 source:c:\users\horia\onedrive\desktop\imobiliare_poo\casa.cpp
+	"casa.h"
+	<iostream>
+
+1713897672 source:c:\users\horia\onedrive\desktop\imobiliare_poo\apartament.cpp
+	"apartament.h"
+	<iostream>
+
+1713897672 source:c:\users\horia\onedrive\desktop\imobiliare_poo\teren.cpp
+	"teren.h"
+	<iostream>
+
+1713994310 source:c:\users\horia\onedrive\desktop\imobiliare_poo\agent_vanzari.cpp
+	"agent_vanzari.h"
+	<iostream>
+	<memory>
+
+1713897672 source:c:\users\horia\onedrive\desktop\imobiliare_poo\client.cpp
+	"client.h"
+	<iostream>
+
+1713897672 c:\users\horia\onedrive\desktop\imobiliare_poo\client.h
+	<string>
+
